@@ -4,7 +4,7 @@ Authors: Suzune Yagi, Meryem Koksal
 
 Description:
 Our project is a game titled @lliance. 
-@lliance is touch .gitignore
+@lliance is a collaborative game where players try to reach the goal helping each other on the way.
 
 Players go down five levels as they progress in the game. They automatically fall down when there is 
 no wall (floor) under them. Their goal is to reach the goal tile at the bottom level. 
